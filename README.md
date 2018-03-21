@@ -1,2 +1,2 @@
-# betamaledotnet
-A test repo for betamale.net custom domain
+# jeromevaldezdotca
+A test repo for jeromevaldez.ca custom domain
